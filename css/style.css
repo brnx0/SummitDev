@@ -1,0 +1,105 @@
+@import "../fonts/fonts.css";
+/* Elementos globais */
+body{
+    margin: 0px;
+}
+
+/* Flex Box */
+.container{
+    width: 1400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+}
+
+
+/* Header/NAV */
+.header {
+    background-color:rgba(0,29,62,85);
+    width: 1400px;
+    height: 65px;
+    display: flex;
+}
+.navbar {
+    z-index: 100;
+    position: fixed;
+}
+.header ul {
+    padding-inline-start: 0;
+}
+
+.header li{
+    color: white;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin: 0 10px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+.logoNav{
+    /* padding-left: 130px;
+    padding-right: 60px; */
+    display: flex;
+    height: 60px;
+
+    /* background-image: url(../img/LogoNav.svg);
+    background-repeat: no-repeat;
+
+    background-position: center;
+    background-size: 100%;
+    height: 65px; */
+    
+}
+
+
+
+.socialMidia{
+    margin: 0px 5px;
+}
+
+.mainNav{
+    width: 100%;
+    height: auto;
+    
+}
+
+#mainbg{
+    background-image: url(../img/Banner.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+}
+#mainbg h1{
+    position: relative;
+    color: white;
+    margin-block-end: 0;
+    margin-block-start: 0;
+
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+}
+#mainbg h2{
+    position: relative;
+    color: white;
+    margin-block-end: 0;
+    margin-block-start: 0;
+
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+}
+    
+    
