@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
     <title>Summit Dev</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
    
 </head>
 <body>
     <header class="header container">
         <div class="container navbar">
             <div class="logoNav"> 
-                <img class="flexCenter" src="./img/LogoNav.svg" alt="summitdevlogo">  
+                <img class="flexCenter" src="/img/LogoNav.svg" alt="summitdevlogo">  
             </div>
             <nav>
                 <ul class=flexCenter >
@@ -23,9 +23,9 @@
             </nav>
             <nav class="flexCenter socialMidia">
                 <div>
-                    <img class="socialMidia" src="./img/navInsta.png" alt="">
-                    <img class="socialMidia" src="./img/NavZap.png" alt="">
-                    <img class="socialMidia" src="./img/Navfb.png" alt="">
+                    <img class="socialMidia" src="/img/navInsta.png" alt="">
+                    <img class="socialMidia" src="/img/NavZap.png" alt="">
+                    <img class="socialMidia" src="/img/Navfb.png" alt="">
                 </div>
                 
             </nav>
