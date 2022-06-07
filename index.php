@@ -33,14 +33,33 @@
         </div>
         <div class="mainNav">
             <div id="mainbg">
-            
-            <h1>ALCANCE O PONTO MAIS ALTO .</h1>
-            <h2>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</h2>
-            </div>            
+                <h1>ALCANCE O PONTO MAIS ALTO .</h1>
+                <h2>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</h2>
+                <button class="btn" id="textBtn"> Fale conosco </button>
+            </div>           
                                    
         </div>
-
+</div>
+</div>
     </header>
+    <section>
+        <h1>COMO FUNCIONA </h1>
+        <div class="container">
+        <div>
+            <img src="./img/img1.webp" alt="">
+        </div>
+        <div>
+            <img src="./img/img2.webp" alt="">
+        </div>
+        <div>
+            <img src="./img/img3.webp" alt="">
+        </div>
+
+        </div>
+        
+        
+
+    </section>
    
     
 </body>
