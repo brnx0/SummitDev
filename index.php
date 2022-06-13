@@ -69,7 +69,7 @@
 
         </section>
    
-     <section> 
+     <section class="atributos"> 
         
         <div class="container" id="teste">
             <h1>COMO FUNCIONA? </h1>
@@ -81,8 +81,8 @@
                                 Qual site é o ideal para você?</p>
                     </div>
                     <div class="servicesItems">
-                        <img src="./img/img2.webp" alt="">
-                            <h2>condimentos ? </h2>
+                        <img src="./img/img2.webp" id="condimentos" alt="">
+                            <h2>Condimentos ? </h2>
                             <p>Escolha se quer adicionais para seu site.
                                 Blog, Multi-idioma, Área de membros e mais!</p>
                     </div>
@@ -116,7 +116,7 @@
         </div>
     </section>
     <section class="portfolio">
-        <div class="portfolioNome">
+        <!-- <div class="portfolioNome">
             <h1>P</h1>
             <h1>O</h1>
             <h1>R</h1>
@@ -127,7 +127,7 @@
             <h1>I</h1>
             <h1>O</h1>
 
-        </div>
+        </div> -->
 
     </section>
   
