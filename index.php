@@ -69,7 +69,7 @@
 
         </section>
    
-     <section class="atributos"> 
+     <section class="atributos container2"> 
         
         <div class="container" id="teste">
             <h1>COMO FUNCIONA? </h1>
@@ -96,6 +96,7 @@
         </div>
         <div class="container" id="teste">
             <h1>PRINCIPAIS RECURSOS!</h1>
+            <div></div>
                 <div class="services">    
                     <div class="servicesItems">
                         <img src="./img/imgWordpress.svg" alt="">
@@ -116,18 +117,28 @@
         </div>
     </section>
     <section class="portfolio">
-        <!-- <div class="portfolioNome">
-            <h1>P</h1>
-            <h1>O</h1>
-            <h1>R</h1>
-            <h1>T</h1>
-            <h1>F</h1>
-            <h1>Ó</h1>
-            <h1>L</h1>
-            <h1>I</h1>
-            <h1>O</h1>
+        <div class="portfolioNome">
+          
 
-        </div> -->
+        </div>
+
+    </section>
+
+    <section class="sectionPortfolio alignCenter">
+        <div class=tittlePortfolio>
+            <h1 id="tittlePortfolio">Portfolio</h1>
+        </div>
+        <div class=_cards>
+            <div id="_cards">
+
+            </div>
+            <div id="_cards">
+
+            </div>
+            <div id="_cards">
+
+            </div>
+        </div>
 
     </section>
   
